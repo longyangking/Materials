@@ -10,6 +10,14 @@
 ## Status
 Working on it
 
+## Required Libraries
++ Numpy
++ Scipy
++ Matplotlib
++ Mayavi
++ VTK
++ Scikit-Learn
+
 ## License
 MIT LICENSE
 
